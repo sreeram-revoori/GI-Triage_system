@@ -1,0 +1,27 @@
+feature,score
+Gender,2
+Age,100
+Hematochezia,4
+Hematemesis,4
+Melena,4
+Syncope_presyncope,2
+unstable_cad,2
+COPD,2
+CRF,2
+risk_for_stress,2
+cirrhosis,2
+asa_nsaids,2
+PPI,2
+Rectal_exam,4
+Systolic_BP,197
+Diastolic_BP,409
+Heart_rate,155
+Hematocrit_pct,51
+hematocrit_drop (if available),22
+Platelets,642
+BUN_mg_dl,136
+Creatinine_mg_dl,9
+INR,10.3
+Source_of_bleeding,3
+Need_for_urgent_endoscopy,3
+No_of_units_pRBCs_during_transport,4
